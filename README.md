@@ -20,6 +20,16 @@ How to Access
 # Visit My Portfolio
 Explore the Home and Contact pages.
 Feel free to browse through the code, and if you have any suggestions or feedback, don't hesitate to open an issue or reach out. Happy coding!
+# Contributing
+If you would like to contribute to this portfolio, I welcome your input! Here are the steps to contribute:
+
+Fork the repository.
+Create a new branch for your changes.
+Make your contributions.
+Commit your changes and create a pull request.
+I appreciate any improvements, bug fixes, or additional features you might bring to the table. Let's make this portfolio even better together! If you have any questions or need assistance, feel free to open an issue.
+
+Feel free to browse through the code, and if you have any suggestions or feedback, don't hesitate to open an issue or reach out. Happy coding!
 
 Thank you for visiting my portfolio website!
 
