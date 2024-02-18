@@ -17,7 +17,7 @@ HTML: Used for structuring the content of the website.
 
 CSS: Basic styling for a clean and visually appealing design.
 How to Access
-# Visit My Portfolio
+# Visit My Portfolio https://amalnisha-developer.github.io/Portfolio-simple-website/
 Explore the Home and Contact pages.
 Feel free to browse through the code, and if you have any suggestions or feedback, don't hesitate to open an issue or reach out. Happy coding!
 # Contributing
