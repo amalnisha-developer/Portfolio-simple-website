@@ -12,10 +12,12 @@ A brief introduction to who I am and my journey into the world of full-stack dev
 2. Contact
 Find my contact information and links to my social media profiles. Feel free to reach out for collaboration or just to say hello!
 Technologies Used
+
 HTML: Used for structuring the content of the website.
+
 CSS: Basic styling for a clean and visually appealing design.
 How to Access
-Visit My Portfolio
+# Visit My Portfolio
 Explore the Home and Contact pages.
 Feel free to browse through the code, and if you have any suggestions or feedback, don't hesitate to open an issue or reach out. Happy coding!
 
